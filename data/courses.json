@@ -8,7 +8,7 @@
         "details": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. This Course will teach you JavaScript from basic to advanced.",
         "instructor": {
             "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
+            "published_date": "2021-05-24"
         }
     },
     {
@@ -16,11 +16,11 @@
         "title": "React Tutorial",
         "course_fee": "$40",
         "image": "https://miro.medium.com/max/880/0*k9CL2yoHU6ELTkmi.png",
-        "total_enroll": 488,
+        "total_enroll": 780,
         "details": "React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI components. This Course will teach you React from basic to advanced",
         "instructor": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
+            "name": "Bruce Banner",
+            "published_date": "2021-09-28"
         }
     },
     {
@@ -28,11 +28,11 @@
         "title": "Bootstrap Tutorial",
         "course_fee": "$20",
         "image": "https://miro.medium.com/max/400/0*B7E1zpMh98z9nwGv.jpeg",
-        "total_enroll": 488,
+        "total_enroll": 382,
         "details": "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. Bootstrap is completely free to download and use!",
         "instructor": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
+            "name": "Tony Stark",
+            "published_date": "2022-02-24"
         }
     },
     {
@@ -40,23 +40,23 @@
         "title": "Tailwind Tutorial",
         "course_fee": "$20",
         "image": "https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb",
-        "total_enroll": 488,
+        "total_enroll": 532,
         "details": "Tailwind CSS is basically a Utility first CSS framework for building rapid custom UI. It is a highly customizable, low-level CSS framework that gives you all of the building blocks that you need. Also, it is a cool way to write inline styling and achieve an awesome interface without writing a single line of your own CSS",
         "instructor": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
+            "name": "Peter Parker",
+            "published_date": "2022-06-14"
         }
     },
     {
         "id": "5",
         "title": "Firebase Tutorial",
         "course_fee": "$15",
-        "image": "https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png",
-        "total_enroll": 488,
+        "image": "https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png",
+        "total_enroll": 700,
         "details": "Firebase is a backend platform for building Web, Android and IOS applications. It offers real time database, different APIs, multiple authentication types and hosting platform.",
         "instructor": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
+            "name": "Chris Hemsworth",
+            "published_date": "2022-08-23"
         }
     },
     {
@@ -64,11 +64,11 @@
         "title": "Node.js Tutorial",
         "course_fee": "$40",
         "image": "https://teknojurnal.com/wp-content/uploads/2016/06/nodejs-thumv.png",
-        "total_enroll": 488,
+        "total_enroll": 942,
         "details": "Node.js is an open source server environment. Node.js allows you to run JavaScript on the server.",
         "instructor": {
             "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
+            "published_date": "2022-09-28"
         }
     }
 ]
