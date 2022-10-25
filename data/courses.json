@@ -2,6 +2,7 @@
     {
         "id": "1",
         "title": "JS Tutorial",
+        "course_fee": "$30",
         "image": "https://miro.medium.com/max/720/1*Aih9FwHjvM6AEL1aBh6W2g.png",
         "total_enroll": 488,
         "details": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. This Course will teach you JavaScript from basic to advanced.",
@@ -13,6 +14,7 @@
     {
         "id": "2",
         "title": "React Tutorial",
+        "course_fee": "$40",
         "image": "https://miro.medium.com/max/880/0*k9CL2yoHU6ELTkmi.png",
         "total_enroll": 488,
         "details": "React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI components. This Course will teach you React from basic to advanced",
@@ -24,6 +26,7 @@
     {
         "id": "3",
         "title": "Bootstrap Tutorial",
+        "course_fee": "$20",
         "image": "https://miro.medium.com/max/400/0*B7E1zpMh98z9nwGv.jpeg",
         "total_enroll": 488,
         "details": "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. Bootstrap is completely free to download and use!",
@@ -35,6 +38,7 @@
     {
         "id": "4",
         "title": "Tailwind Tutorial",
+        "course_fee": "$20",
         "image": "https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb",
         "total_enroll": 488,
         "details": "Tailwind CSS is basically a Utility first CSS framework for building rapid custom UI. It is a highly customizable, low-level CSS framework that gives you all of the building blocks that you need. Also, it is a cool way to write inline styling and achieve an awesome interface without writing a single line of your own CSS",
@@ -46,6 +50,7 @@
     {
         "id": "5",
         "title": "Firebase Tutorial",
+        "course_fee": "$15",
         "image": "https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png",
         "total_enroll": 488,
         "details": "Firebase is a backend platform for building Web, Android and IOS applications. It offers real time database, different APIs, multiple authentication types and hosting platform.",
@@ -57,6 +62,7 @@
     {
         "id": "6",
         "title": "Node.js Tutorial",
+        "course_fee": "$40",
         "image": "https://teknojurnal.com/wp-content/uploads/2016/06/nodejs-thumv.png",
         "total_enroll": 488,
         "details": "Node.js is an open source server environment. Node.js allows you to run JavaScript on the server.",
